@@ -15,8 +15,8 @@ const Contacts = () => {
   return (
     <Box m="20px">
       <Header
-        title="CONTACTS"
-        subtitle="List of Contacts for Future Reference"
+        title="Студенты"
+        subtitle="Список студентов музыкальной школы"
       />
       <Box
         m="40px 0 0 0"
